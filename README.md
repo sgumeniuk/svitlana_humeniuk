@@ -1,4 +1,5 @@
-I would like to show you some examples of my work
+# HUMENIUK SVITLANA
+## Trainee/junior MANUAL software quality engineer
 
 ![image](https://github.com/user-attachments/assets/0e0d206b-7c3b-45f1-9a96-dc0965a62fbf)
 ![image](https://github.com/user-attachments/assets/a0609398-d89f-425a-840b-60472659469d)
